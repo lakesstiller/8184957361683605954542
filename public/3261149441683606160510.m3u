@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF: -1, cuatro
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear21/live/linear21/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1679800348~exp=1679800527~acl=/*~hmac=20152d4952785214cfd75224e2fda0a051c5c9171c46c17990cfd9297e62950c
